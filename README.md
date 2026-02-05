@@ -5,7 +5,7 @@ Golden Kubestronaut Journey: Notes, Failures, and Successes
 
 > **Candidate:** Lee Robinson  
 > **Target Achievement:** CNCF Golden Kubestronaut  
-> **Deadline:** Q2 2026  
+> **Deadline:** Q4 2026  
 > **Lab Environment:** Dell PowerEdge R730 (Hybrid Cloud) & VMware Workstation
 
 ---
@@ -19,9 +19,9 @@ To achieve "Golden" status by mastering the full CNCF landscape—from foundatio
 | :---: | :--- | :---: | :--- |
 | 🔄 | **LFCS** (Linux Foundation Certified SysAdmin) | Q1 2026 | Recertification |
 | 🔄 | **CKA** (Certified Kubernetes Administrator) | Q1 2026 | Recertification |
-| 📅 | **CKAD** (Certified Kubernetes Application Developer) | Q2 2026 | Recertification |
+| 📅 | **CKAD** (Certified Kubernetes Application Developer) | Q1 2026 | Recertification |
 | 📅 | **CKS** (Certified Kubernetes Security Specialist) | Q2 2026 | New |
-| ✅ | **KCNA/KCSA** (Cloud Native & Security Assoc.) | Complete | — |
+| ✅ | **KCNA/KCSA** (Cloud Native & Security Assoc.) | Q1 | — |
 | 🏗️ | **Golden Tier** (PCA, ICA, CCA, CAPA, etc.) | Ongoing | Multi-cert |
 
 *Key: ✅ Completed | 🔄 In Progress | 📅 Scheduled | 🔒 Prerequisite Locked*
